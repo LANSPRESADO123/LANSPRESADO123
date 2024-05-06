@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ai,ml,python,django,blender**
 
-- 📝 I regularly write articles on [mybrain.com](my brain)
+- 📝 I regularly write articles on [my brain](my brain)
 
 - 💬 Ask me about **blender**
 
